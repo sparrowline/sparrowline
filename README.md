@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **WorkZone**
 
-- 👯 I’m looking to collaborate on **java/Spring applications**
+-   I’m looking to collaborate on **java/Spring applications**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sparrowline](https://github.com/sparrowline)
 
