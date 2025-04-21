@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/syedriz67328530" target="blank"><img src="https://img.shields.io/twitter/follow/syedriz67328530?logo=twitter&style=for-the-badge" alt="@syedriz67328530" /></a> </p>
 
-- 🔭 I’m currently working on **WorkZone**
 
 -   I’m looking to collaborate on **java/Spring applications**
 
@@ -11,7 +10,7 @@
 
 - 💬 Ask me about **java, sql,html,css,javascript,jdbc,hibernate with jpa, servlets ,jsp, Spring mvc,Spring Boot**
 
-- 📫 How to reach me **syedrizwansat95@gmail.com**
+- 📫 How to reach me **syedrizwansat65@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
